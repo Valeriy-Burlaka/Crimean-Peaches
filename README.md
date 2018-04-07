@@ -1,3 +1,5 @@
+### This thingy tries to answer a hypothetical question: could peaches ripen in Crimea at the end of May 2013 ? 
+
 ```
 pip install -r requirements.txt
 ```
